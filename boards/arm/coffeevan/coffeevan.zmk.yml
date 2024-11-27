@@ -1,0 +1,11 @@
+file_format: "1"
+id: coffeevan
+name: CBKBD CoffeeVan
+type: board
+arch: arm
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+url: https://www.cbkbd.com/product/coffeevan-pcb
